@@ -1,0 +1,10 @@
+{
+  "id": "111111",
+  "nome": "savio",
+  "cpf": "123.456.789-00",
+  "senha": "12345678",
+  "rua": "avenida brasil",
+  "bairro": "centro",
+  "estado": "CE",
+  "telefone": "(11) 9 1234-5678"
+}
